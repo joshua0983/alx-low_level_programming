@@ -22,7 +22,7 @@ n=rand()-RAND_MAX/2;
 
 	else if(n<0)
 	{
-	prrintf("%i is negative\n",n);
+	printf("%i is negative\n",n);
         }
 
 	else 
