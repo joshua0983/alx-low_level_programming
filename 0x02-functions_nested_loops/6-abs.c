@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * _abs - value absolute 
+ * _abs - value absolute
  *
  * @n: The int to print
  * Return: Always 0
@@ -22,6 +22,6 @@ return (0);
 
 else
 {
-return (0);
+return (n);
 }
 }
